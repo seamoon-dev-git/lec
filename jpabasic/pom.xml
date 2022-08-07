@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
 
     <name>jpabasic</name>
-    <url>http://maven.apache.org</url>
+    <description>기본 JPA - 자바ORM표준JPA 프로그래밍(기본편) 프로젝트</description>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

@@ -11,7 +11,7 @@
   <packaging>pom</packaging>
 
   <name>lec</name>
-  <url>http://maven.apache.org</url>
+  <description>강의 프로젝트 최상위 모듈</description>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
