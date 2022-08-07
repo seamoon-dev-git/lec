@@ -1,2 +1,3 @@
 # Project exclude paths
 /jpabasic/target/
+.idea
