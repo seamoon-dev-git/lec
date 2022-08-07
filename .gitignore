@@ -1,3 +1,5 @@
 # Project exclude paths
 /jpabasic/target/
 .idea
+/springcoreprinciplebasic/target
+/springsecurity/target
