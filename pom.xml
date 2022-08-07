@@ -8,6 +8,7 @@
   <modules>
     <module>jpabasic</module>
     <module>springcoreprinciplebasic</module>
+    <module>springsecurity</module>
   </modules>
   <packaging>pom</packaging>
 
