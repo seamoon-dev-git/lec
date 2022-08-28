@@ -17,6 +17,7 @@
     <module>jpabasic</module>
     <module>springcoreprinciplebasic</module>
     <module>springsecurity</module>
+    <module>springthymeleaf</module>
   </modules>
   <packaging>pom</packaging>
 
