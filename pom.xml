@@ -18,6 +18,7 @@
     <module>springcoreprinciplebasic</module>
     <module>springsecurity</module>
     <module>springthymeleaf</module>
+    <module>kimteawonjavacodingtest</module>
   </modules>
   <packaging>pom</packaging>
 
