@@ -3,3 +3,4 @@
 .idea
 /springcoreprinciplebasic/target
 /springsecurity/target
+.gradle
